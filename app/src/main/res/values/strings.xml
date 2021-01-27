@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerCard</string>
+    <string name="img_transition">countryImage</string>
+    <string name="title_transition" />
+    <string name="descrption">Descrption</string>
+    <string name="title">Title</string>
+</resources>
